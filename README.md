@@ -4,6 +4,7 @@ This code provides an implmentation for the deep seek 1B pro for text to image g
 ![ead7cbdcad5d219cd0f5209874a9e6cb70c95bca81cfd2c5dacf74f6](https://github.com/user-attachments/assets/6f56c59b-f228-465f-afdf-49937d8b13ca)
 ![c3c4d6d16b1926de549126f27734d2608213f26c7000c8775b9a54b4](https://github.com/user-attachments/assets/95236c9e-3815-44ce-a614-1c9eb4d534ef)
 ![7e74645ef7050443bfd28bac38cb634602511639873079ae712d8196](https://github.com/user-attachments/assets/0cfc7b66-3bd0-4913-9f63-61ed11620529)
+![f1116c3946a59e5e4d53ae4d93b39546a9e5447351e00074cba66be2](https://github.com/user-attachments/assets/0414dbc8-b6fa-416b-af31-d92815bc9f0d)
 
 # How to run
 To run this code you have to first clone the https://github.com/deepseek-ai/Janus.git. 
